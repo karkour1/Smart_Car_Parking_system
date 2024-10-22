@@ -1,0 +1,11 @@
+LCD_Programme.c:14:6:wait_ms	24	static
+LCD_Programme.c:20:6:LCD_EN_Pluse	16	static
+LCD_Programme.c:28:6:LCD_init	16	static
+LCD_Programme.c:122:6:LCD_Is_Busy	16	static
+LCD_Programme.c:147:6:LCD_Send_Command	16	static
+LCD_Programme.c:190:6:LCD_Send_Character	16	static
+LCD_Programme.c:230:6:LCD_Send_string	24	static
+LCD_Programme.c:251:6:LCD_Clear_Screen	16	static
+LCD_Programme.c:255:6:LCD_SET_Cursor	16	static
+LCD_Programme.c:268:6:LCD_Display_Number	24	static
+LCD_Programme.c:274:6:LCD_Display_Real_Number	72	static

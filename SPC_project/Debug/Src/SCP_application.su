@@ -1,0 +1,9 @@
+SCP_application.c:23:9:Search_ID	24	static
+SCP_application.c:34:6:usart1_IRQ	8	static
+SCP_application.c:46:6:usart2_IRQ	8	static
+SCP_application.c:59:6:SCP_Init	32	static
+SCP_application.c:166:6:SCP_Options	8	static
+SCP_application.c:174:6:SCP_Add_ID	16	static
+SCP_application.c:234:6:SCP_Remove_ID	24	static
+SCP_application.c:308:6:SCP_Entry_Process	16	static
+SCP_application.c:340:6:SCP_Exit_Process	16	static

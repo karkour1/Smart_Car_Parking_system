@@ -1,0 +1,5 @@
+SCP_Gates.c:21:6:usart1_IRQ	8	static
+SCP_Gates.c:33:6:usart2_IRQ	8	static
+SCP_Gates.c:46:6:SCP_Gates_Init	32	static
+SCP_Gates.c:85:6:SCP_Entry_Process	16	static
+SCP_Gates.c:107:6:SCP_Exit_Process	16	static
